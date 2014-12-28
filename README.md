@@ -8,7 +8,4 @@ Get the trippy box in the gray hole. When the box falls a significant distance, 
 ####Bugs
 The transition into squashed/unsquashed mode is not animated.
 
-####Credits
-Dante, Zack, Matthew, Ian, Jabir, Ben, Hunter
-
   [1]: https://raw.githubusercontent.com/GameMakersUnion/Squash/master/README.png
